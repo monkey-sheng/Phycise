@@ -1,0 +1,39 @@
+#GeneralLevel1#You have a lot of room for improvements! I wonder if you even remember the face of your Physics teacher.
+Allocate more time to you Physics study,and you will surely make progress.#GeneralLevel1#
+#GeneralLevel2#Honestly speaking, you didn't do a good job...at least in this quiz.Hopefully this is just a rare case, 
+or an accident. Put your heart on it and you will find Physics easy to learn.#GeneralLevel2#
+#GeneralLevel3#You have done ok in Physics generally, but still room to improve.If you are not working hard enough,
+then work harder! At least 5 hours must be spent on Physics every week,if you want to be outstanding in this subject.#GeneralLevel3#
+#GeneralLevel4#You have done a good job overall! Seems that you have a basic concept of every topic in the quiz here.
+There are a few mistakes, however. So if you want to be exceptionally good at Physics, make sure your understanding is beyond basic concepts.#GeneralLevel4#
+#GeneralLevel5#Only one mistake out of 15 questions! Excellent job! You must be very good at Physics, right?
+Check out how you made that only mistake, and try to avoid reoccurance. Keep up the good work!#GeneralLevel5#
+#GeneralLevel6#Not a single mistake! You must have worked very hard on Physics...or you are just too gifted? Hopefully both lol;)
+Anyways, You are simply too good, so my only advice is: Keep calm and carry on.lol.#GeneralLevel6#
+#Units#Units should probably be the easiest topics in Physics. Keep in mind the approach to derive units,
+memorize the units for often-used quantities, then it should not be difficult anymore.#Units#
+#Vector#Well, vector is part of Maths, so I suggest that you go back to your Maths textbook and review everything again.
+Memorizing what quantity is vector and what is scaler is crucial in doing MCQs.
+You must also familiarize yourself with vector calculations--not to be confused with scaler calculations!#Vector#
+#Motion#Can you recall all 4 suvat formulae of motion right now? I really doubt that you can.Good news if you can though.
+It is very improtant that you remember the formulae, and only by familiarizing yourself with them can you find the correct approach
+in a quiz or an exam.#Motion#
+#Graph Interpretation#Dealing with graphs can be quite hard since it may invovle multiple topics in just one graph,
+and finding information in a graph is usually harder than that in plain English.Remember, approach a graph by first looking at
+its axes label, then gradient, then area under the curve.This often leads to a breakthorugh.#Graph Interpretation#
+#Acceleration#Acceleration should not be harder than motion, just be aware that it is a vector and choose the proper formular from
+the 4 suvat formulae.#Acceleration#
+#Energy#When dealing with energy, how to calculate energy produced should be easy, simply choose formular according to
+what quantity is provided in the question.Always remember the law of conservation of energy, you will need it now and then to
+find out how energy is transformed.#Energy#
+#Material#In the topic of material, you should remember every property in detail, because what will be asked is detailed.
+You will have to work on these alone and nobody can help you remember it if you doun't memorize it yourself.#Material#
+#Waves#Waves come in different forms, sound, light, elctromagnetic,etc.But remember they share the same nature.
+They all have period, amplitude,and their speed equals to frequency multiplied by wave length.Note that C.R.O is different,
+pay special attention to its graph interpretation.#Waves#
+#Electric#Electric is one of the most difficult part in Physics.First of all, make sure you understand the circuit diagram,
+and then do citcuit analysis based on correct understandings.You'll find it easier to apply all the laws once you understand
+the diagram.Redrawing is a common approach, and tracing how the current goes helps a lot.#Electric#
+#Particles#Particles...well, they involve quite a lot of topics: momentum, elctric, pressure,etc.The only difference,perhaps,
+is that some properties are implied,like the mass of ¦Á-particle, the electric charge of electrons,etc.
+Make sure you remember and apply them.#Particles#
